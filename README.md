@@ -41,4 +41,8 @@ Distinguishes between resolved and unresolved crimes, providing an overview of t
 Analyzes the monthly crime trend and highlights percentage variances to illustrate fluctuations.
 
 8.Identification of the Most Dangerous Time of the Day:
-Pinpoints specific time periods associated with a higher frequency of crimes.
+Pinpoints specific time periods associated with a higher frequency of crimes. 
+
+
+![Crime complete report](https://github.com/user-attachments/assets/2e15a193-0282-44ec-a202-4bd038265a9c)
+![crime complete report 2](https://github.com/user-attachments/assets/20247350-13d8-45a1-9d86-94551407dfaf)
