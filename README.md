@@ -1,4 +1,7 @@
 # Crime Analysis Power BI Project
+![Crime complete report](https://github.com/user-attachments/assets/2e15a193-0282-44ec-a202-4bd038265a9c)
+![crime complete report 2](https://github.com/user-attachments/assets/20247350-13d8-45a1-9d86-94551407dfaf)
+
 ## Overview:
 In this repository, you will find a Power BI project that analyzes a crime dataset. The project encompasses various stages, including data cleaning, modeling, and visualization, aimed at extracting valuable insights from the dataset.
 
@@ -44,5 +47,4 @@ Analyzes the monthly crime trend and highlights percentage variances to illustra
 Pinpoints specific time periods associated with a higher frequency of crimes. 
 
 
-![Crime complete report](https://github.com/user-attachments/assets/2e15a193-0282-44ec-a202-4bd038265a9c)
-![crime complete report 2](https://github.com/user-attachments/assets/20247350-13d8-45a1-9d86-94551407dfaf)
+
